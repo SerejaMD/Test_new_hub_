@@ -3,6 +3,6 @@
 </div>
 <body>
       <h1>Hi traveler. Welcome.
-      <img src="https://media.giphy.com/media/7z6UweIr1Ae9ytT1tQ/giphy.gif" width="10px"/>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
 </body>
