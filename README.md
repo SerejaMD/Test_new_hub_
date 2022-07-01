@@ -5,9 +5,10 @@
 <h1>
     <img src="https://media.giphy.com/media/1347t0cCJWlsnC/giphy.gif" height="30"/>
     Hi traveler. Welcome.
-    <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" height="30"/>
+    <img src="https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif" height="30"/>
 </h1>
+
 <div align="center">
     <img src="https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif" width="350"/>
 </div>
-https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif
+
