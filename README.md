@@ -3,7 +3,8 @@
 </div>
 
 <h1>
+    <img src="https://media.giphy.com/media/1347t0cCJWlsnC/giphy.gif" height="30"/>
     Hi traveler. Welcome.
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
+    <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" height="30"/>
 </h1>
 
