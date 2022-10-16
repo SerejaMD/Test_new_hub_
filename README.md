@@ -21,3 +21,4 @@
 
 <div id='head'>
     <img id='img_1' src='https://i.gifer.com/410A.gif' width='326' height='500' align='left'/>
+</div>
