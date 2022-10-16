@@ -1,4 +1,4 @@
-<div id="header">
+<!-- <div id="header">
     <img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" width="326" height="500" align="left"/>
     <img src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" width="325" height="500" align="center"/>
     <img src="https://media.giphy.com/media/bB3FrjpQ3w8ms/giphy.gif" width="327" height="500" align="right"/>
@@ -15,4 +15,4 @@
         Test
 <img src="https://media.giphy.com/media/zeIzPCEBs6lq4eHjxw/giphy-downsized-large.gif" width="370"/>
     </h1>
-</body>
+</body> -->
