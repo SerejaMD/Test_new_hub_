@@ -21,4 +21,5 @@
 
 <div id='head'>
     <img id='img_1' src='https://i.gifer.com/410A.gif' width='326' height='500' align='left'/>
+    <img id='img_2' src='<iframe src="https://gifer.com/embed/fyrU" width=480 height=738.462 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>' width='325' height='500' align='center'/>
 </div>
