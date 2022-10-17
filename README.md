@@ -12,11 +12,14 @@
 </h1>
 
 <body>
-    <h1>
-        Test
-<img src="https://media.giphy.com/media/zeIzPCEBs6lq4eHjxw/giphy-downsized-large.gif" width="370"/>
-<img src="[https://i.gifer.com/QWfb.gif](https://i.gifer.com/QWfb.gif)" width="325" height="500" align="center"/>
-    </h1>
+    <div>
+        <h1>Несколько моих работ 
+        <img id="img_3" src="https://media.giphy.com/media/xT9DPvFR1w7gdhurvi/giphy.gif" width="100" height="100" align="center"/>
+        </h1>   
+    </div>
+
+
+    
 </body>
 
 
