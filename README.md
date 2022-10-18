@@ -16,7 +16,7 @@
 
 
 <!--Немного обо мне:-->
-:technologist: A little bit about me <img src="https://media.giphy.com/media/3o72EZplI5RBdJU17q/giphy.gif" width="30">:
+:technologist: A little bit about me: <img src="https://media.giphy.com/media/3o72EZplI5RBdJU17q/giphy.gif" width="30">
 <!--Начинающий ИТ специалист-->
 - :battery:Beginning IT specialist.
 <!--Изучаю новое-->
@@ -35,9 +35,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src=" " title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src=" " title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src=" " title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://cdn2.iconfinder.com/data/icons/document-file-fill-outline-1/64/File_Document_Doc_Folder_XML-256.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-512.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://spectrasoft.ru/upload/iblock/f56/f56225b4cd788d248cbd3d3b147d4232.jpg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <!-- <img src=" " title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 </div>
     
 <div>
@@ -46,6 +48,10 @@
     </h1>   
 </div>
 
+<img id="img_3" src="https://drive.google.com/file/d/1Wq8vBvThsDMnFE3KFQITgRuXgNRI3idu/view?usp=sharing" width="100" height="100" align="left"/>
+<img id="img_3" src="https://drive.google.com/file/d/1r9-i5ip9-ebMavWY7_IKS_EnM_k3SNpE/view?usp=sharing" width="100" height="100" align="center"/>
+<img id="img_3" src="https://drive.google.com/file/d/1H4svpUqRMyoU4ml1DkZ4Qu1NoocuvTKh/view?usp=sharing" height="100" align="right"/>
+<img id="img_3" src="https://drive.google.com/drive/folders/1Bv-Z5iX6qhx2R41ejsCSZDfpHh6TfdoR" height="100" align="right"/>
 
     
 
