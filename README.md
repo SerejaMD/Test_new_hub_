@@ -48,13 +48,8 @@
     </h1>   
 </div>
 
-<img id="img_3" src="https://drive.google.com/file/d/1Wq8vBvThsDMnFE3KFQITgRuXgNRI3idu/view?usp=sharing" width="100" height="100" align="left"/>
-<img id="img_3" src="https://drive.google.com/file/d/1r9-i5ip9-ebMavWY7_IKS_EnM_k3SNpE/view?usp=sharing" width="100" height="100" align="center"/>
-<img id="img_3" src="https://drive.google.com/file/d/1H4svpUqRMyoU4ml1DkZ4Qu1NoocuvTKh/view?usp=sharing" height="100" align="right"/>
-<img id="img_3" src="https://drive.google.com/drive/folders/1Bv-Z5iX6qhx2R41ejsCSZDfpHh6TfdoR" height="100" align="right"/>
 
-    
-
+  
 
 
 
